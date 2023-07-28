@@ -1,0 +1,16 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\bin\Debug\net5.0\ClassInterfaces_EX2.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\bin\Debug\net5.0\ClassInterfaces_EX2.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\bin\Debug\net5.0\ClassInterfaces_EX2.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\bin\Debug\net5.0\ClassInterfaces_EX2.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\bin\Debug\net5.0\ClassInterfaces_EX2.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\bin\Debug\net5.0\ClassInterfaces_EX2.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\refint\ClassInterfaces_EX2.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ClassInterfaces_EX2.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\ClassInterfaces_EX2\obj\Debug\net5.0\ref\ClassInterfaces_EX2.dll
